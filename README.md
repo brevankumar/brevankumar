@@ -1,6 +1,5 @@
-### This is Revan kumar
+### I am Revan kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jvdboss7&label=Profile%20views&color=0e75b6&style=flat" alt="Jvdboss7" /> </p>
 <div align='center'>
 </div>
 
