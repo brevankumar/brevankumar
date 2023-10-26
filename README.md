@@ -3,7 +3,7 @@
 <div align='center'>
 </div>
 
-#### I am an aspiring Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I had worked on frameworks such as Pytorch, Tensorflow, Keras, Scikit-learn, and Flask. I had built several End to End projects with machine learning and NLP.
+I am an aspiring Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I had worked on frameworks such as Pytorch, Tensorflow, Keras, Scikit-learn, and Flask. I had built several End to End projects with machine learning and NLP.
 My key skills in data science projects include EDA, Data science pipeline like (Data Ingestion, Data Validation, Data Transformation, Model Training, Model Evaluation, Deployment)
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Feature Engineering 
